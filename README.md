@@ -10,6 +10,7 @@
 
 **Textures:** Folder for texture files.
 
+
 **Lighting Setup**
 
 **Directional Light:** Simulates sunlight.
@@ -38,6 +39,7 @@ To optimize performance, I've used light baking. This technique precomputes how 
 
 **Suitability:** Ideal for scenes with mostly static lighting, such as architectural visualizations or environments with minimal changes in lighting.
 Occlusion Culling
+
 
 Implementing occlusion culling has further optimized our project by:
 
