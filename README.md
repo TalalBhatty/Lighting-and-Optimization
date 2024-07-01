@@ -1,5 +1,5 @@
 **Project Structure**
-
+---
 **Assets:** Contains all game assets.
 
 **Materials:** Folder for material files.
@@ -8,16 +8,21 @@
 
 **Scenes:** Folder for scene files.
 
-**Textures:** Folder for texture files.
-
+**Textures:** Folder for scene files
+<br>
+<br>
 
 **Lighting Setup**
+---
 
 **Directional Light:** Simulates sunlight.
-
+<br>
+<br>
 
 **Post-Processing Enhancements:**
+---
 I've enhanced the visual quality of our Unity project using post-processing effects. 
+
 ****These include:****
 
 **Bloom:** Adding a soft glow to bright areas, like how light might naturally spread in a camera lens.
