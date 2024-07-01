@@ -1,12 +1,17 @@
 **Project Structure**
 
 **Assets:** Contains all game assets.
+
 **Materials:** Folder for material files.
+
 **Prefabs:** Folder for prefabricated game objects.
+
 **Scenes:** Folder for scene files.
+
 **Textures:** Folder for texture files.
 
 **Lighting Setup**
+
 **Directional Light:** Simulates sunlight.
 
 
