@@ -13,6 +13,7 @@
 **Post-Processing Enhancements:**
 I've enhanced the visual quality of our Unity project using post-processing effects. 
 ****These include:****
+
 **Bloom:** Adding a soft glow to bright areas, like how light might naturally spread in a camera lens.
 **Color Grading:** Adjusting colors to create a specific mood or atmosphere, enhancing the overall visual appeal.
 **Vignette:** Darkening the edges of the screen, focusing attention on the center and creating a cinematic feel.
