@@ -28,7 +28,9 @@ I've enhanced the visual quality of our Unity project using post-processing effe
 To optimize performance, I've used light baking. This technique precomputes how light interacts with static objects in the scene:
 
 **Efficiency:** By calculating lighting beforehand, we reduce the need for real-time computations during gameplay.
+
 **Stability:** It ensures consistent lighting across different devices and viewing conditions, improving visual fidelity.
+
 **Suitability:** Ideal for scenes with mostly static lighting, such as architectural visualizations or environments with minimal changes in lighting.
 Occlusion Culling
 
