@@ -37,7 +37,9 @@ Occlusion Culling
 Implementing occlusion culling has further optimized our project by:
 
 **Visibility Management:** Determining which objects are visible to the camera at any given time.
+
 **Performance Benefits:** By not rendering objects blocked from view by others or the environment, we reduce GPU workload.
+
 **Enhanced Frame Rates:** This approach significantly improves performance in complex scenes or large environments, maintaining smooth gameplay.
 
 
