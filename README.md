@@ -8,7 +8,7 @@
 
 **Scenes:** Folder for scene files.
 
-**Textures:** Folder for scene files
+**Textures:** Folder for texture files
 <br>
 <br>
 
@@ -23,7 +23,7 @@
 ---
 I've enhanced the visual quality of our Unity project using post-processing effects. 
 
-****These include:****
+These include:
 
 **Bloom:** Adding a soft glow to bright areas, like how light might naturally spread in a camera lens.
 
@@ -34,7 +34,8 @@ I've enhanced the visual quality of our Unity project using post-processing effe
 **Ambient Occlusion:** Simulating subtle shadows in corners and crevices, adding depth and realism.
 
 **Anti-Aliasing:** Smoothing out jagged edges, making lines and edges appear smoother and more natural.
-
+<br>
+<br>
 
 To optimize performance, I've used light baking. This technique precomputes how light interacts with static objects in the scene:
 
@@ -44,7 +45,8 @@ To optimize performance, I've used light baking. This technique precomputes how 
 
 **Suitability:** Ideal for scenes with mostly static lighting, such as architectural visualizations or environments with minimal changes in lighting.
 Occlusion Culling
-
+<br>
+<br>
 
 Implementing occlusion culling has further optimized our project by:
 
@@ -53,7 +55,8 @@ Implementing occlusion culling has further optimized our project by:
 **Performance Benefits:** By not rendering objects blocked from view by others or the environment, we reduce GPU workload.
 
 **Enhanced Frame Rates:** This approach significantly improves performance in complex scenes or large environments, maintaining smooth gameplay.
-
+<br>
+<br>
 
 **Conclusion:**
 By combining these techniques—enhancing visuals with post-processing effects, leveraging light baking for static scenes, and implementing occlusion culling for efficient rendering—we've achieved both visual fidelity and optimal performance in our Unity project.
